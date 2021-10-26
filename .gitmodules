@@ -1,0 +1,3 @@
+[submodule "QStyleLoader"]
+	path = QStyleLoader
+	url = https://github.com/Engilian/QStyleLoader.git
